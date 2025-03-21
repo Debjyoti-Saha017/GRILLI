@@ -4,4 +4,4 @@ Welcome to offical repository for the app landing page. This project is designed
 
 This the link of my resturant website https://debjyoti-saha017.github.io/GRILLI/
 
-![image alt](https://github.com/Debjyoti-Saha017/GRILLI/blob/ea316f28113f5547406b3955653f109901d2c77b/screenshot.jpg)
+![image alt](https://github.com/Debjyoti-Saha017/GRILLI/blob/main/screenshot.jpg.jpg)
